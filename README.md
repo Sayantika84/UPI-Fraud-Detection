@@ -53,6 +53,6 @@ All models performed well, but the **Random Forest Classifier** achieved the bes
 ## **How to Run**
 1. Clone this repository.
 1. Install the required libraries:\
-   pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+   ``pip install pandas numpy scikit-learn matplotlib seaborn jupyter``
 1. Download the dataset from the [Kaggle link](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset) and save it as upi\_dataset.csv in the root directory.
 1. Open and run the main.ipynb notebook.
